@@ -38,7 +38,7 @@
   "dependencies": {
     "http-cookie-agent": "^6.0.5",
     "m3u8stream": "^0.8.6",
-    "miniget": "^4.2.3",
+    "miniget": "git+https://github.com/flareclouds/node-miniget#65f0dd1",
     "sax": "^1.4.1",
     "tough-cookie": "^4.1.4",
     "undici": "five"
