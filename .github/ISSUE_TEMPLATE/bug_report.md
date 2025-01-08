@@ -6,11 +6,9 @@ labels: bug
 assignees: ""
 ---
 
-## Describe the bug
-<!-- A clear and concise description of what the bug is. -->
+## Describe the bug and how to reproduce it
 
-## Debug File
-<!-- Please upload your debug file by dragging and dropping it here (if any). -->
+<!-- A clear and concise description of what the bug is. -->
 
 ## Environment
 
